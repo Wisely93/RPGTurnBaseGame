@@ -1,0 +1,5 @@
+﻿  RPG Turn Based Game.cpp
+C:\Users\Ngpoh\Desktop\c++\RPG Turn Based Game\RPG Turn Based Game.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ngpoh\Desktop\c++\RPG Turn Based Game\Character.h(102): warning C4715: 'Player::LevelUp': not all control paths return a value
+C:\Users\Ngpoh\Desktop\c++\RPG Turn Based Game\Character.h(85): warning C4715: 'Player::Heal': not all control paths return a value
+  RPG Turn Based Game.vcxproj -> C:\Users\Ngpoh\Desktop\c++\RPG Turn Based Game\Debug\RPG Turn Based Game.exe

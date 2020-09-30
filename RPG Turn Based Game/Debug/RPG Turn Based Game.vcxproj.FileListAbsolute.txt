@@ -1,0 +1,2 @@
+C:\Users\Ngpoh\Desktop\c++\RPG Turn Based Game\Debug\RPG Turn Based Game.exe
+C:\Users\Ngpoh\Desktop\c++\RPG Turn Based Game\Debug\RPG Turn Based Game.pdb
